@@ -4,7 +4,7 @@
 
 ### **Automation & AI** Developer · Full‑Stack · Builder of random (and cool) projects
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-jbmolotov.github.io-24292e?style=flat-square&logo=github&logoColor=white)](https://jbmolotov.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-jbmolotov.github.io-yellow?style=flat-square&logo=windowsterminal&logoColor=white)](https://jbmolotov.github.io)
 [![LinkedIn: johnnybs99](https://img.shields.io/badge/-johnnybs99-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/johnnybs99/)](https://www.linkedin.com/in/johnnybs99/)
 [![GitHub Johnny](https://img.shields.io/github/followers/jbmolotov?label=follow&style=social)](https://github.com/jbmolotov)
 
