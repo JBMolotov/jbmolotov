@@ -54,7 +54,7 @@ I'm passionate about building solutions that solve real problems with simplicity
 
 - **HoneyBee-Democracy** — Evolutionary swarm simulator inspired by the book of the same name.  
   _Stack:_ C · C++ · CUDA · OpenGL · Evolutionary  
-  🔗 **Repo:** (Same link as EcoTutor in original—let me know if you want to update.)
+  🔗 **Repo:** https://github.com/brenocq/Honeybee-Simulation
 
 - **Legal Assistant** — Support system with **RAG** and an updatable legislation/jurisprudence knowledge base.  
   _Stack:_ LangChain · LLMs · Indexing  
